@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Iti Pix</string>
+    <!-- Strings Activity Confirmation -->
+    <string name="title_toolbar_activity_confirmation">confirmação</string>
 </resources>

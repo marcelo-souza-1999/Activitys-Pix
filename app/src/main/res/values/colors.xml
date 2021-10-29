@@ -9,4 +9,5 @@
     <color name="background_header">#29303F</color>
     <color name="colors_text">#EC5A7F</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
 </resources>
