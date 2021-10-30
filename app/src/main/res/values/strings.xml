@@ -15,4 +15,7 @@
     <string name="send_message"><b>envie uma mensagem</b></string>
     <string name="read_message"><b>digitar</b></string>
     <string name="text_message">use este espaço para mandar um recado</string>
+    <string name="text_contact"><b>salvar contato</b></string>
+    <string name="btn_payment">pagar</string>
+    <string name="btn_cancel_payment">cancelar pagamento</string>
 </resources>
