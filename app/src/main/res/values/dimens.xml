@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="height_header_main">160dp</dimen>
+    <dimen name="height_card_view_dados">150dp</dimen>
+    <dimen name="radius_card_view_dados">20dp</dimen>
+    <dimen name="padding_card_view_dados">16dp</dimen>
+
+    <dimen name="padding_body_layout">24dp</dimen>
+
+    <dimen name="size_text_12">12sp</dimen>
+
+</resources>
