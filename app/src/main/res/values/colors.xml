@@ -10,4 +10,6 @@
     <color name="colors_text">#EC5A7F</color>
     <color name="white">#FFFFFFFF</color>
     <color name="transparent">#00FFFFFF</color>
+    <color name="grey">#808080</color>
+    <color name="light_grey">#D3D3D3</color>
 </resources>

@@ -1,5 +1,18 @@
 <resources>
     <string name="app_name">Iti Pix</string>
-    <!-- Strings Activity Confirmation -->
+    <!-- Strings ActivityConfirmation Layout-->
     <string name="title_toolbar_activity_confirmation">confirmação</string>
+    <!-- Strings CardViewDados Layout -->
+    <string name="value">R$ <b>1,00</b> via Pix</string>
+    <string name="name_people">para <b>MARCELO SOUZA</b></string>
+    <string name="dados_pix">ITAÚ UNIBANCO S.A. - chave PIX - +5512996259393 -</string>
+    <string name="cpf">CPF ***.468.208-**</string>
+    <string name="description_logo_user">Foto do usuário</string>
+    <!-- Strings BodyConfirmation Layout -->
+    <string name="type_payment"><b>pagar com</b></string>
+    <string name="change_payment"><b>mudar</b></string>
+    <string name="balance_iti">saldo iti: R$ 1,00</string>
+    <string name="send_message"><b>envie uma mensagem</b></string>
+    <string name="read_message"><b>digitar</b></string>
+    <string name="text_message">use este espaço para mandar um recado</string>
 </resources>
