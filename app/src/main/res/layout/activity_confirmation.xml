@@ -15,7 +15,7 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:id="@+id/constraintHeader"
             android:layout_width="match_parent"
-            android:layout_height="@dimen/height_header_main"
+            android:layout_height="@dimen/height_header"
             android:background="@drawable/background_header"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <dimen name="height_header_main">160dp</dimen>
+    <!-- Dimens CardViews -->
     <dimen name="height_card_view_dados">150dp</dimen>
+    <dimen name="height_card_view_body_pix">125dp</dimen>
+    <dimen name="widht_card_view_body_pix">125dp</dimen>
     <dimen name="radius_card_view_dados">20dp</dimen>
     <dimen name="padding_card_view_dados">16dp</dimen>
 
+    <!-- Dimens Headers -->
+    <dimen name="height_header">160dp</dimen>
+    <dimen name="height_header_pix">200dp</dimen>
+
     <dimen name="padding_body_layout">24dp</dimen>
 
+    <dimen name="padding_body_layout_pix">12dp</dimen>
+
     <dimen name="size_text_12">12sp</dimen>
+
+    <dimen name="rotation_image_header_pix">280</dimen>
+
+    <dimen name="rotation_image_key_pix">130</dimen>
 
 </resources>
