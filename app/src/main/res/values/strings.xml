@@ -24,4 +24,14 @@
     <string name="title_card_view_transfer"><b>transferir</b></string>
     <string name="title_card_view_receive"><b>receber</b></string>
     <string name="title_card_view_payment"><b>pagar</b></string>
+    <string name="title_manage_pix"><b>gerenciar Pix</b></string>
+    <string name="title_mykeys_pix"><b>minhas chaves</b></string>
+    <string name="title_extract_pix"><b>extrato / devoluções</b></string>
+    <string name="title_help_pix"><b>dúvidas e ajuda</b></string>
+    <string name="title_limit_pix"><b>meus limites Pix</b></string>
+    <!-- Strings Descriptions -->
+    <string name="text_description_my_keys">Acessar minhas chaves Pix</string>
+    <string name="text_description_my_extract">Acessar meus extratos e devoluções do Pix</string>
+    <string name="text_description_help">Acessar ajuda e dúvidas sobre o Pix</string>
+    <string name="text_description_limits">Acessar meus límites do Pix</string>
 </resources>

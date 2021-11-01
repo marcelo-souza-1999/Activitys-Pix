@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/arrow_right_pix_rose_24.xml" value="0.127" />
+        <entry key="app/src/main/res/drawable/arrow_right_pix_rose_32.xml" value="0.127" />
+        <entry key="app/src/main/res/drawable/arrow_right_pix_rose_44.xml" value="0.127" />
         <entry key="app/src/main/res/drawable/arrows_transfer_rose_24.xml" value="0.127" />
         <entry key="app/src/main/res/drawable/background_button_payment.xml" value="0.136" />
         <entry key="app/src/main/res/drawable/background_header.xml" value="0.1955" />
@@ -12,8 +15,12 @@
         <entry key="app/src/main/res/drawable/border_header_pix.xml" value="0.127" />
         <entry key="app/src/main/res/drawable/change_color_text.xml" value="0.136" />
         <entry key="app/src/main/res/drawable/contacts_24.xml" value="0.136" />
+        <entry key="app/src/main/res/drawable/extract_pix_rose_24.xml" value="0.127" />
+        <entry key="app/src/main/res/drawable/help_pix_rose_24.xml" value="0.127" />
         <entry key="app/src/main/res/drawable/help_pix_white_24.xml" value="0.126" />
         <entry key="app/src/main/res/drawable/help_white_24.xml" value="0.126" />
+        <entry key="app/src/main/res/drawable/key_pix_rose_24d.xml" value="0.127" />
+        <entry key="app/src/main/res/drawable/limit_pix_rose_24.xml" value="0.127" />
         <entry key="app/src/main/res/drawable/message_24.xml" value="0.127" />
         <entry key="app/src/main/res/drawable/payment_rose_24.xml" value="0.127" />
         <entry key="app/src/main/res/drawable/round_money_24.xml" value="0.136" />
@@ -22,10 +29,12 @@
         <entry key="app/src/main/res/font/toolbar_title.xml" value="0.225" />
         <entry key="app/src/main/res/layout/activity_confirmation.xml" value="0.18" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1716485507246377" />
-        <entry key="app/src/main/res/layout/activity_pix.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_pix.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/body_actions_pix.xml" value="0.18" />
         <entry key="app/src/main/res/layout/body_buttons.xml" value="0.15" />
         <entry key="app/src/main/res/layout/body_buttons_payment.xml" value="0.3328488372093023" />
         <entry key="app/src/main/res/layout/body_confirmation.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/body_manage_pix.xml" value="0.25" />
         <entry key="app/src/main/res/layout/card_view_dados.xml" value="0.33" />
         <entry key="app/src/main/res/layout/card_view_payment_pix.xml" value="0.18" />
         <entry key="app/src/main/res/layout/card_view_receiver_pix.xml" value="0.18" />
