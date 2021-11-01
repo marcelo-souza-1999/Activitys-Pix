@@ -18,4 +18,10 @@
     <string name="text_contact"><b>salvar contato</b></string>
     <string name="btn_payment">pagar</string>
     <string name="btn_cancel_payment">cancelar pagamento</string>
+    <!-- Strings Pix Layout-->
+    <string name="title_toolbar_pix">pix</string>
+    <string name="text_body_pix">pague e receba na mesma\nhora sem nenhum custo ;)</string>
+    <string name="title_card_view_transfer"><b>transferir</b></string>
+    <string name="title_card_view_receive"><b>receber</b></string>
+    <string name="title_card_view_payment"><b>pagar</b></string>
 </resources>
